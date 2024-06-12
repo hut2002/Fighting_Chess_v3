@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fighting_Chess_v3")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f82d858f651b8a6ab931bf5a1175caab84b9735f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53f558d60375e770074448d1321d7f2bb6cdd891")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fighting_Chess_v3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fighting_Chess_v3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
